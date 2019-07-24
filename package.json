@@ -1,7 +1,7 @@
 {
-  "name": "touchealth-special-operation",
+  "name": "meeting",
   "version": "1.0.0",
-  "description": "touchealth special operation",
+  "description": "meeting",
   "author": "HISUN <hisunng@gmail.com>",
   "private": true,
   "scripts": {

@@ -3,20 +3,7 @@
 import Vue from 'vue'
 import App from './App'
 import router from './router'
-import ElementUI from 'element-ui'
-import 'element-ui/lib/theme-chalk/index.css'
 
-import 'quill/dist/quill.snow.css'
-
-
-import VueDND from 'awe-dnd'
-Vue.use(VueDND)
-
-Vue.use(ElementUI)
-
-// 引入
-import service from "@/utils/request"
-Vue.prototype.$http = service
 
 
 Vue.config.productionTip = false
